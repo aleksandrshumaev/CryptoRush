@@ -1,0 +1,31 @@
+UI_PerSec;/sec;/сек
+UI_CurrentFarmPower;Curren farm power;Мощность фермы
+UI_BoxName_0;Just a box;Самый обычный ящик
+UI_BoxName_1;Uncommon box;Ящик пореже
+UI_BoxName_2;Rare box;Рекдкий ящик
+UI_BoxName_3;Mystery box;Ящик еще реже
+UI_BoxName_4;Legendary box;Вообще самый редкий ящик жестб
+UI_BoxDescription_0;30% chanse to get common coin and 70% to get some amount of stable coins;30% вероятность вытащить обычную монету
+UI_BoxDescription_1;30% chanse to get uncommon coin and 70% to get some amount of stable coins;30% вероятность вытащить необычную монету
+UI_BoxDescription_2;30% chanse to get rare coin and 70% to get some amount of stable coins;30% вероятность вытащить редкую монету
+UI_BoxDescription_3;30% chanse to get mythic coin and 70% to get some amount of stable coins;30% вероятность вытащить странную монету
+UI_BoxDescription_4;30% chanse to get legendary coin and 70% to get some amount of stable coins;30% вероятность вытащить легендарную монету
+UI_SellFor;Sell for;Продать за
+UI_CardName_0;VC2060;VC2060
+UI_CardName_1;VC2070;VC2070
+UI_CardName_2;VC2080;VC2080
+UI_CardName_3;VC3060;VC3060
+UI_CardName_4;VC3070;VC3070
+UI_CardName_5;VC3080;VC3080
+UI_CardName_6;VC4060;VC4060
+UI_CardName_7;VC4070;VC4070
+UI_CardName_8;VC4080;VC4080
+UI_CardName_9;VC5090;VC5090
+UI_Farm;Farm;Ферма
+UI_Exchange;Exchage;Обмен
+UI_Shop;Shop;Магазин
+UI_Collection;Collection;Коллекция
+Ui_GettingReward; You've got;Вы получили
+UI_ExitGameText;Exit game?;Выйти из игры?
+UI_ExitButton;Exit;Выйти
+UI_CancleButton;Cancle;Отмена
